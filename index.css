@@ -1,0 +1,44 @@
+body {
+    background-image: url(https://i.etsystatic.com/40019473/r/il/57630d/6118160266/il_fullxfull.6118160266_klxt.jpg);
+    background-size: cover;
+    font-family: Helvetica Neue, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.app-wrapper {
+    max-width: 60%;
+    margin: auto;
+    height: 200vh;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 3px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
